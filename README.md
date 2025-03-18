@@ -1,7 +1,7 @@
 # Contest Tracker 
 
 ## 📌 Overview  
-The **Contest Tracker API** is a Node.js-based backend service that tracks coding contests from platforms like **LeetCode, Codeforces, and CodeChef**. The platform allows users to view and track contests, automatically update solutions, and access contest discussions from YouTube. It provides an intuitive and responsive UI, supporting both light and dark themes, ensuring an enhanced experience for users.
+The **Contest Tracker** is a Node.js-based backend service that tracks coding contests from platforms like **LeetCode, Codeforces, and CodeChef**. The platform allows users to view and track contests, automatically update solutions, and access contest discussions from YouTube. It provides an intuitive and responsive UI, supporting both light and dark themes, ensuring an enhanced experience for users.
 
 ## 🎯 Features  
 ✅ Fetches **upcoming and ongoing** contests from **LeetCode, Codeforces, and CodeChef**.  
